@@ -1,9 +1,9 @@
 import add from ".";
 
-// describe("add", () => {
+describe("add", () => {
 
-//   it("should add the two numbers together", () => {
-//     expect(add(1, 2)).toBe(3)
-//   })
+  it("should add the two numbers together", () => {
+    // expect(add(1, 2)).toBe(3)
+  })
 
-// })
+})
